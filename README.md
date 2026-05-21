@@ -52,7 +52,7 @@ Instead of the AI guessing → it looks up first, then answers.
 ```
 rag-pipeline-langchain-gemini/
 │
-├── rag_implementation.ipynb   # Main Colab notebook
+├── rag_implementation.py   
 └── README.md
 ```
 
